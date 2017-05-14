@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1450953559 source:e:\csed\programming\project\final24.12.2015\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"initialBoard.h"
+
+1450950777 e:\csed\programming\project\final24.12.2015\initialboard.h
+
+1450953559 source:e:\csed\first year\first term\programming\project\final24.12.2015\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"initialBoard.h"
+
+1450950777 e:\csed\first year\first term\programming\project\final24.12.2015\initialboard.h
+
